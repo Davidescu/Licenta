@@ -1,0 +1,4 @@
+https://github.com/expressjs/multer --Multer NodeJS
+https://medium.com/@kavitanambissan/uploading-and-retrieving-a-file-from-gridfs-using-multer-958dfc9255e8 !!!Pt documentatie
+
+https://books.google.ro/books?id=cdJtDQAAQBAJ&pg=PA92&lpg=PA92&dq=gridfs+and+another+mongoose+collection&source=bl&ots=OZqNG0uWhV&sig=ACfU3U0ajUnTbZtVyMrEga_YBhtUlkkpqA&hl=ro&sa=X&ved=2ahUKEwiv-s7UrMPiAhWObFAKHSTIAWY4ChDoATANegQIBxAB#v=onepage&q=gridfs%20and%20another%20mongoose%20collection&f=false

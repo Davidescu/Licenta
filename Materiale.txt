@@ -1,0 +1,45 @@
+https://emojipedia.org/building-construction/     -----EMOJI
+
+https://www.dev2qa.com/retrofit-android-get-post-example/ --RETROFIT
+
+https://www.vogella.com/tutorials/Retrofit/article.html
+
+https://stackoverflow.com/questions/43169008/android-rxjava2-flowable-with-compositedisposable/43170259  --RETROFI CAMERA
+
+https://androidkennel.org/android-camera-access-tutorial/    --ALLOW CAMERA (cod sursa)
+https://www.youtube.com/watch?v=i5UcFAdKe5M   --Cod sursa camera foto
+
+
+https://coredump.ro/questions/30667531/how-to-get-object-with-retrofit-library
+
+
+https://blog.zairza.in/uploading-files-images-to-mongodb-using-gridfs-c16f4eba777
+http://www.technicalkeeda.com/nodejs-tutorials/how-to-store-image-into-mongodb-using-nodejs
+
+
+--MONGODB-photo-GridFS
+https://github.com/ganeshpatro321/fileU/edit/master/app.js
+
+
+--Photo
+https://stackoverflow.com/questions/53353459/passing-of-captured-image-or-from-gallery-to-another-activity
+
+
+https://bl.ocks.org/aerrity/fd393e5511106420fba0c9602cc05d35
+
+
+
+https://codeburst.io/all-about-http-in-node-js-and-3-best-ways-for-http-requests-in-web-development-6e5b6876c3a4
+
+https://www.androidhive.info/2012/01/android-json-parsing-tutorial/ --SESIZARILE MELE, PARSE JSON
+
+
+
+https://abhiandroid.com/programming/retrofit  --RETROFIT
+
+
+
+https://blog.usejournal.com/sessionless-authentication-withe-jwts-with-node-express-passport-js-69b059e4b22c  --IMPR
+
+
+https://www.codementor.io/mayowa.a/how-to-build-a-simple-session-based-authentication-system-with-nodejs-from-scratch-6vn67mcy3  --LOGAREA WEB!!!
